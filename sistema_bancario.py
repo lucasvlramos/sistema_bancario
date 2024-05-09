@@ -58,4 +58,4 @@ while True:
         print("Obrigado por utilizar nosso sistema...")
         break
     else:
-        exit("Opção inválida")
+        ("Opção inválida")
