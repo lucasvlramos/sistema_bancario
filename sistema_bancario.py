@@ -5,10 +5,6 @@ limite_saques = 3
 qtd_saques= 0
 saque_excedidos = False
 
-
-saldo = float(input("Informe o saldo da conta"))
-
-
 menu = """
 = Seja Bem vindo =
 
